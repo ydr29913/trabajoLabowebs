@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+
 body {
     font-family: Arial, sans-serif;
     color: #2a2a2a;
@@ -14,12 +15,14 @@ body {
     min-height: 100vh;
 }
 
+
 header, footer {
     background-color: #2a75ff;
     color: #ffffff;
     text-align: center;
     padding: 1em 0;
 }
+
 
 header h1, footer p {
     margin: 0;
@@ -34,10 +37,12 @@ section.about, section.contact-form, section.map {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+
 h2 {
     color: #2a2a2a;
     margin-bottom: 15px;
 }
+
 
 p, li {
     color: #555;
